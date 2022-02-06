@@ -1,8 +1,10 @@
-# mmhws自用规则，3条
+# mmhws自用规则，5条
 
 # DOMAIN-SUFFIX
 DOMAIN-SUFFIX,ehgt.org
 DOMAIN-SUFFIX,oreno3d.com
+DOMAIN-SUFFIX,jsdelivr.com
+DOMAIN-SUFFIX,unpkg.com
 
 # DOMAIN-KEYWORD
 DOMAIN-KEYWORD,oreno3d
