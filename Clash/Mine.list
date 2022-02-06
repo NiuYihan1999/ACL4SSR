@@ -1,1 +1,8 @@
+# mmhws自用规则，3条
+
+# DOMAIN-SUFFIX
 DOMAIN-SUFFIX,ehgt.org
+DOMAIN-SUFFIX,oreno3d.com
+
+# DOMAIN-KEYWORD
+DOMAIN-KEYWORD,oreno3d
