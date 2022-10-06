@@ -6,6 +6,7 @@ DOMAIN-SUFFIX,oreno3d.com
 DOMAIN-SUFFIX,jsdelivr.net
 DOMAIN-SUFFIX,unpkg.com
 DOMAIN-SUFFIX,patreon.com
+DOMAIN-SUFFIX,iwara.tv
 
 DOMAIN-SUFFIX,z-lib.org
 DOMAIN-SUFFIX,singlelogin.loc
@@ -32,6 +33,7 @@ DOMAIN-SUFFIX,thuhollow.github.io
 
 # DOMAIN-KEYWORD
 DOMAIN-KEYWORD,oreno3d
+DOMAIN-KEYWORD,iwara
 DOMAIN-KEYWORD,erommdtube
 DOMAIN-KEYWORD,1lib
 DOMAIN-KEYWORD,2lib
