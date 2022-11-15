@@ -1,6 +1,8 @@
 # mmhws自用规则，27条
 
 # DOMAIN-SUFFIX
+DOMAIN-SUFFIX,elsevier.com
+
 DOMAIN-SUFFIX,ehgt.org
 DOMAIN-SUFFIX,oreno3d.com
 DOMAIN-SUFFIX,jsdelivr.net
